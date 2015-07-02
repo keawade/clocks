@@ -1,0 +1,25 @@
+{
+  "name": "clocks",
+  "version": "1.0.0",
+  "description": "Javascript timers and clocks website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keawade/clocks.git"
+  },
+  "author": "keawade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keawade/clocks/issues"
+  },
+  "homepage": "https://github.com/keawade/clocks#readme",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "hbs": "^3.1.0",
+    "hbs-utils": "0.0.3"
+  }
+}
